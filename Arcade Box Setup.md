@@ -49,7 +49,7 @@ _ctrl-X_ exits then _Y_ to save
 
 then use
 
-`avcfg` to fix up your issues after rotation ?
+`avcfg`, `avv` to fix up your issues after rotation, In `avv` you will have to add some custom display resolutions that match your back to front width and height.
 
 ##Give a little more to the GPU
 
@@ -123,13 +123,11 @@ essystems.conf
 
 Go make a coffee again.
 
-
 ##Other Stuff.
 
 ###Faster Scraping
 
-A bug in emulationstation prevents scraping without user input when the screen is flipped, When you want to scrape your game collection you must first adjust the setting in `/boot/config.txt` comment out `display_rotate=1` then change the setting back once scraping has been completed.
-
+A bug in emulationstation prevents scraping without user input when the screen is flipped, When you want to scrape your game collection you must first adjust the setting in `/boot/config.txt` and comment out `display_rotate=1` then change the setting back once scraping has been completed.
 
 ###Finding wiring information on Game Controller
 
