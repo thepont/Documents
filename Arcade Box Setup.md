@@ -89,6 +89,8 @@ when prompted for a password its _raspberry_
 
 #Retrogame Cocktail Install
 
+A great deal of notes on PiGame also apply here, such as copying the roms and creating the disk image.
+
 ##Rotate the screen
 
 Rotating the entire screen causes problems for advancemame, fortunatly we can fix these up.
