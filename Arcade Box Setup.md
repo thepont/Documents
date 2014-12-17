@@ -33,7 +33,7 @@ _Although they won't be mounted under volumes, and I assume if you're using Linu
 	
 `sudo dd bs=1m if=~/Downloads/piplay-0.8-beta7.img of=/dev/disk7`
 
-_where disk7 is the disk we just unmounted (the __s1__ and __s2__ correspond to partitions, you don't want to write to the partition)_
+where disk7 is the disk we just unmounted (the _s1_ and _s2_ correspond to partitions, you don't want to write to the partition)
 
 ##Rotate Screen
 
